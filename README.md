@@ -1,4 +1,4 @@
-# Respond-ZeroDay
+# Respond to a ZeroDay Attack
 ## What you'll learn
 
 Learn how to address a vulnerability that may affect Product Development Staging Environment infrastructure.
@@ -21,8 +21,12 @@ In this task, review recent publications from the Cybersecurity & Infrastructure
 
 CISA has recently published two advisories:
 
-    The first advisory (Log4j) outlines a serious vulnerability in one of the world’s most popular logging software.
-    The second advisory explores the increasing professionalization of ransomware, a concern for a large company like AIG.
+    1. The first advisory (Log4j) outlines a serious vulnerability in one of the world’s most popular logging software.
+[Mitigating Log4Shell and Other Log4j-Related Vulnerabilities](https://www.cisa.gov/news-events/cybersecurity-advisories/aa21-356a)<br>
+
+    2. The second advisory explores the increasing professionalization of ransomware, a concern for a large company like AIG.
+[CISA, FBI, NSA and International Partners Issue Advisory on Ransomware Trends from 2021](https://www.cisa.gov/news-events/news/cisa-fbi-nsa-and-international-partners-issue-advisory-ransomware-trends-2021)<br>
+
 
 Your task is to respond to the Apache Log4j zero-day vulnerability by advising affected teams of the vulnerability.
 
