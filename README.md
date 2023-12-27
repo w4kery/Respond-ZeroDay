@@ -71,10 +71,10 @@ Hello John Doe,
 
 AIG Cyber & Information Security Team would like to inform you that a recent Log4j vulnerability has been discovered in the security community that may affect the Product Development Staging Environment infrastructure.<br>
 
-**Vulnerability Overview:** Log4j, a widely-used open-source tool for application logging, has recently been identified with a critical vulnerability in versions Log4j2 2.0-beta9 through 2.15.0. This vulnerability, identified as CVE-2021-44228 and CVE-2021-45046, could allow an unauthenticated attacker to execute remote code on the affected infrastructure.<br>
+**Vulnerability Overview:** Log4j, a widely-used open-source tool for application logging, has recently been identified with a critical vulnerability in versions Log4j2 2.0-beta9 through 2.15.0. This vulnerability, identified as [CVE-2021-44228](https://nvd.nist.gov/vuln/detail/CVE-2021-44228) and [CVE-2021-45046](https://nvd.nist.gov/vuln/detail/CVE-2021-45046), could allow an unauthenticated attacker to execute remote code on the affected infrastructure.<br>
 
 **Affected Products:**
-•	Log4j2 2.0-beta9 through 2.15.0
+- Log4j2 2.0-beta9 through 2.15.0<br>
 Risk & Impact: Critical - remote code execution (RCE). Exploitation of this vulnerability could grant unauthorized access, leading to data exfiltration or malicious actions within the Product Development Staging Environment.
 
 **Remediation Steps:**
@@ -85,8 +85,9 @@ Confirmation: Once you've addressed this vulnerability, please confirm the remed
 
 **Additional Information:** For further details and resources, you can refer to the NIST disclosures on NVD - CVE-2021-44228 and NVD - CVE-2021-45046.
 
-**Contact Us:** If you have any questions or concerns, feel free to reach out to our team. Your prompt attention to this matter is highly appreciated.
-Kind regards, 
+**Contact Us:** If you have any questions or concerns, feel free to reach out to our team. Your prompt attention to this matter is highly appreciated.<br>
+
+Kind regards,
 AIG Cyber & Information Security Team
 
 
