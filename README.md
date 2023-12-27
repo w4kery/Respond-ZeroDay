@@ -80,14 +80,15 @@ Risk & Impact: Critical - remote code execution (RCE). Exploitation of this vuln
 **Remediation Steps:**
 1.	Identify any assets or infrastructure running the affected Log4j version.
 2.	Update Log4j to versions 2.16.0 (Java 8) and 2.12.2 (Java 7).
-3.	Remain vigilant for signs of exploitation.
-Confirmation: Once you've addressed this vulnerability, please confirm the remediation with a reply to this email.
+3.	Remain vigilant for signs of exploitation.<br>
+
+**Confirmation:** Once you've addressed this vulnerability, please confirm the remediation with a reply to this email.
 
 **Additional Information:** For further details and resources, you can refer to the NIST disclosures on NVD - CVE-2021-44228 and NVD - CVE-2021-45046.
 
 **Contact Us:** If you have any questions or concerns, feel free to reach out to our team. Your prompt attention to this matter is highly appreciated.<br>
 
-Kind regards,
+Kind regards,<br>
 AIG Cyber & Information Security Team
 
 
