@@ -86,9 +86,10 @@ Risk & Impact: Critical - remote code execution (RCE). Exploitation of this vuln
 
 **Confirmation:** Once you've addressed this vulnerability, please confirm the remediation with a reply to this email.
 
-**Additional Information:** For further details and resources, you can refer to the NIST disclosures on NVD - CVE-2021-44228 and NVD - CVE-2021-45046.
+**Additional Information:** For further details and resources, you can refer to the NIST disclosures on NVD - [CVE-2021-44228](https://nvd.nist.gov/vuln/detail/CVE-2021-44228) and NVD - [CVE-2021-45046](https://nvd.nist.gov/vuln/detail/CVE-2021-45046).
 
-**Contact Us:** If you have any questions or concerns, feel free to reach out to our team. Your prompt attention to this matter is highly appreciated.<br>
+**Contact Us:** If you have any questions or concerns, feel free to reach out to our team. <br>
+Your prompt attention to this matter is highly appreciated.<br>
 
 Kind regards,<br>
 AIG Cyber & Information Security Team
