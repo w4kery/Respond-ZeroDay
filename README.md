@@ -33,11 +33,13 @@ Your task is to respond to the Apache Log4j zero-day vulnerability by advising a
 Conduct research on the vulnerability using the provided "CISA Advisory" resources as a starting point. Analyze the "Infrastructure List" to identify affected infrastructure and ownership.
 
 ## Infrastructure List
-Product Team	Product Name	Team Lead	Services Installed
-IT	Workstation Management System	Jane Doe (tech@email.com)	OpenSSH, dnsmasq, lighttpd
-Product Development	Product Development Staging Environment	John Doe (product@email.com)	Dovecot pop3d, Apache httpd, Log4j, Dovecot imapd, MiniServ
-Marketing	Marketing Analytics Server	Joe Schmoe (marketing@email.com)	Microsoft ftpd, Indy httpd, Microsoft Windows RPC, Microsoft Windows netbios-ssn, Microsoft Windows Server 2008 R2 - 2012 microsoft ds
-HR	Human Resource Information System	Joe Bloggs (hr@email.com)	OpenSSH, Apache httpd, rpcbind2-4
+| Product Team          | Product Name                            | Team Lead                | Services Installed                                      |
+|-----------------------|-----------------------------------------|--------------------------|----------------------------------------------------------|
+| IT                    | Workstation Management System           | Jane Doe (tech@email.com)| OpenSSH, dnsmasq, lighttpd                                 |
+| Product Development   | Product Development Staging Environment | John Doe (product@email.com)| Dovecot pop3d, Apache httpd, Log4j, Dovecot imapd, MiniServ |
+| Marketing             | Marketing Analytics Server              | Joe Schmoe (marketing@email.com)| Microsoft ftpd, Indy httpd, Microsoft Windows RPC, Microsoft Windows netbios-ssn, Microsoft Windows Server 2008 R2 - 2012 microsoft ds |
+| HR                    | Human Resource Information System       | Joe Bloggs (hr@email.com)| OpenSSH, Apache httpd, rpcbind2-4                          |
+
 
 ## Example Advisory Email
 
